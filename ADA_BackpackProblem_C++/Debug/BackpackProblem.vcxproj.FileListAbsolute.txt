@@ -1,0 +1,4 @@
+C:\Info\BackpackProblem\Debug\BackpackProblem.exe
+C:\Info\BackpackProblem\Debug\BackpackProblem.pdb
+C:\Info\ADA_BackpackProblem_C++\Debug\BackpackProblem.exe
+C:\Info\ADA_BackpackProblem_C++\Debug\BackpackProblem.pdb

@@ -1,0 +1,6 @@
+﻿  Backpack.cpp
+  BackpackProblem.cpp
+C:\Info\ADA_BackpackProblem_C++\BackpackProblem.cpp(13,12): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Info\ADA_BackpackProblem_C++\BackpackProblem.cpp(85,26): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours...
+  BackpackProblem.vcxproj -> C:\Info\ADA_BackpackProblem_C++\Debug\BackpackProblem.exe
